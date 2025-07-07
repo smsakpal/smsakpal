@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaraj Sakpal</h1>
-<h3 align="center">A passionate AI and Data Science enthusiast from India, with a passion for building intelligent systems, crafting data-driven solutions, and exploring cloud and DevOps technologies.</h3>
+<h3 align="center">A passionate AI and Tech enthusiast from India, with a passion for building Web Application systems and  exploring cloud and DevOps technologies.</h3>
 
 - 🌱 I’m currently learning **Spring Boot framework, Docker and DevOps.**
 
